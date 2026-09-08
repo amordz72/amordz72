@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @amordz72
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Omar DZ — روابط سريعة
 
-<!---
-amordz72/amordz72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## MyTool
+
+- 🌐 [فتح MyTool أونلاين](https://amordz72.github.io/mytool/)
+- 📁 [فتح مشروع MyTool على GitHub](https://github.com/amordz72/mytool)
+- 🧰 [فتح قسم البرامج](https://amordz72.github.io/mytool/programs/)
+
+> هذه الصفحة هي بوابة سريعة للوصول إلى الأدوات العامة بدون الحاجة إلى تسجيل الدخول إلى GitHub.
